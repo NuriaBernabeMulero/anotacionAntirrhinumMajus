@@ -17,5 +17,9 @@ Los scripts utilizan alguna o varias de las siguientes librerías:
 - <b>anotacionGO.tsv</b>: Las anotaciones que ya existen para los genes de <i>Antirrhinum majus</i>.
 - <b>genes_no_anotados.tsv</b>: Los genes de <i>Antirrhinum majus</i> para los que no existe anotación.
 
+## Ficheros FASTA con los genomas
+También son necesarios los ficheros FASTA que contienen el genoma de los distintos organismos utilizados.
+- <b><i>Antirrhinum majus</i></b>: http://bioinfo.sibs.ac.cn/Am/download_v2.php
+
 ## Resultados
 En este directorio está el fichero final con todas las anotaciones obtenidas para <i>Antirrhinum majus</i> utilizando nuestro método.
