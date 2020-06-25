@@ -20,6 +20,8 @@ Los scripts utilizan alguna o varias de las siguientes librerías:
 ## Ficheros FASTA con los genomas
 También son necesarios los ficheros FASTA que contienen el genoma de los distintos organismos utilizados.
 - <b><i>Antirrhinum majus</i></b>: http://bioinfo.sibs.ac.cn/Am/download_v2.php
+- <b><i>Solanum lycopersicum</i></b>: ftp://ftp.solgenomics.net/tomato_genome/annotation/ITAG3.2_release
+- <b><i>Arabidopsis thaliana</i></b>: https://www.arabidopsis.org/download/index-auto.jsp?dir=%2Fdownload_files%2FGenes%2FTAIR10_genome_release
 
 ## Resultados
 En este directorio está el fichero final con todas las anotaciones obtenidas para <i>Antirrhinum majus</i> utilizando nuestro método.
