@@ -12,3 +12,10 @@ Los scripts utilizan alguna o varias de las siguientes librerías:
 - <b>Pandas</b>: Utilizada para el manejo de grandes estructuras de datos.
 - <b>Pybiomart</b>: Utilizada para la comunicación con Biomart.
 - <b>Goatools</b>: Utilizada para el tratamiento de términos GO.
+
+## Ficheros de partida
+- <b>anotacionGO.tsv</b>: Las anotaciones que ya existen para los genes de <i>Antirrhinum majus</i>.
+- <b>genes_no_anotados.tsv</b>: Los genes de <i>Antirrhinum majus</i> para los que no existe anotación.
+
+## Resultados
+En este directorio está el fichero final con todas las anotaciones obtenidas para <i>Antirrhinum majus</i> utilizando nuestro método.
